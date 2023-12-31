@@ -3,7 +3,7 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     API_ID = "7988735"
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_HASH = "8339b7684eb7f4653ed032d4828ebf89"
 
     CASH_API_KEY = "3FTOVT1DG6S1K288"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
